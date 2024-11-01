@@ -1,0 +1,2 @@
+
+        if algorithm == "BFS":
