@@ -29,6 +29,9 @@ This project is a Python implementation of the classic puzzle game Sokoban, feat
 
 **Screenshots:**
 - Include some in-game screenshots showing different levels or AI solving a level.
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 **Installation Instructions:**
 1. Clone the repository:
